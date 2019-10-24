@@ -2,3 +2,11 @@
   Was written to give students an overview of modern math concepts beyond algebra. Topics include non-euclidian geometry, linear algebra, projective geometry and group theory. Again, for someone with an understanding of algebra. I enjoyed it and think it's in the spirit of what you're looking for.
 - Introduction to Graph Theory by Richard J. Trudeau
 - Calculus by Michael Spivak
+- Mathematical Methods in the Physical Sciences 3rd Edition by Mary L. Boas
+- The videos of Grant Sanderson (3Blue1Brown) His explanations of mathematics are the only ones I can think of that have given me the same sort of piercing clarity and insight that one gets from reading Feynman on physics https://www.youtube.com/c/3blue1brown
+- Mathematics: Its Content, Methods and Meaning by A.D. Aleksandrov, A.N. Kolmogorov, M.A. Lavrent
+- Steven Strogatz's books Sync and Infinite Powers.
+- Walter Rudin
+- Graham, Knuth, and Patashnik's Concrete Mathematics has the same exploratory and informal tone that the Feynman lectures have. It's more about computational math than abstract math.
+- What Is Mathematics? An Elementary Approach to Ideas and Methods” by Courant and Robbins.
+- "Mathematics Can Be Fun" by Yakov Perelman Not really a book that has lectures but it's a great book that covers all popular topics in Mathematics (fun to read). (Link: https://mirtitles.org/2015/12/07/mathematics-can-be-fun-yako...)
